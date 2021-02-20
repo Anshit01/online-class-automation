@@ -1,0 +1,134 @@
+[
+    {
+        "subject": "HS-203",
+        "link": "https://meet.google.com/lookup/hrwqzfkdo2?authuser=2&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 15
+            },
+            {
+                "day": 1,
+                "hour": 13
+            },
+            {
+                "day": 2,
+                "hour": 15
+            },
+            {
+                "day": 5,
+                "hour": 15
+            },
+            {
+                "day": 5,
+                "hour": 16
+            }
+        ]
+    },
+    {
+        "subject": "CS-201",
+        "link": "https://meet.google.com/lookup/awtwcvsm4h?authuser=2&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 12
+            },
+            {
+                "day": 1,
+                "hour": 12
+            },
+            {
+                "day": 2,
+                "hour": 12
+            },
+            {
+                "day": 3,
+                "hour": 12
+            }
+        ]
+    },
+    {
+        "subject": "CS-221",
+        "link": "https://meet.google.com/lookup/boamtfqqzk?authuser=2&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 14
+            },
+            {
+                "day": 1,
+                "hour": 14
+            },
+            {
+                "day": 2,
+                "hour": 14
+            },
+            {
+                "day": 3,
+                "hour": 14
+            }
+        ]
+    },
+    {
+        "subject": "CS-222",
+        "link": "https://meet.google.com/lookup/eydyhulkkh?authuser=2&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 11
+            },
+            {
+                "day": 1,
+                "hour": 11
+            },
+            {
+                "day": 2,
+                "hour": 11
+            },
+            {
+                "day": 3,
+                "hour": 11
+            },
+            {
+                "day": 4,
+                "hour": 11
+            }
+        ]
+    },
+    {
+        "subject": "CS-223",
+        "link": "https://meet.google.com/lookup/clum2hcxjj?authuser=2&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 10
+            },
+            {
+                "day": 1,
+                "hour": 10
+            },
+            {
+                "day": 2,
+                "hour": 10
+            },
+            {
+                "day": 3,
+                "hour": 10
+            }
+        ]
+    },
+    {
+        "subject": "CS-224",
+        "link": "https://meet.google.com/lookup/fnrjhryac2?authuser=2&hs=179",
+        "timings": [
+            {
+                "day": 1,
+                "hour": 15
+            },
+            {
+                "day": 3,
+                "hour": 15
+            }
+        ]
+    }
+]
