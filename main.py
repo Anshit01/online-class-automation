@@ -45,6 +45,7 @@ def checkClass():
     else:
         print("No class right now.")
 
+# Loading timetable from class-data.json
 with open("class-data.json") as f:
     data = json.load(f)
     for class_ in data:
