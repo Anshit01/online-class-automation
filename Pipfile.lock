@@ -1,0 +1,65 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "ada5500a30f0e17416322c0ffabe5baf47d50234640a0e0c1b852d3118ac0dbe"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "playsound": {
+            "hashes": [
+                "sha256:1e83750a5325cbccee03d6e751ba3e78c037ac95b95a3ba1f38d0c5aca9e1a34"
+            ],
+            "index": "pypi",
+            "version": "==1.2.2"
+        },
+        "py-notifier": {
+            "hashes": [
+                "sha256:8dea2a5e4ff71566681ea3449f51f4e4309742be6917ca241a0e338bfe44276e",
+                "sha256:960d9a5ce4f7031b51114203998b7b85ab11b73129d48d1f5e94df185d533ccb"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
+        },
+        "ruamel.yaml": {
+            "hashes": [
+                "sha256:012b9470a0ea06e4e44e99e7920277edf6b46eee0232a04487ea73a7386340a5",
+                "sha256:076cc0bc34f1966d920a49f18b52b6ad559fbe656a0748e3535cf7b3f29ebf9e"
+            ],
+            "version": "==0.16.12"
+        },
+        "schedule": {
+            "hashes": [
+                "sha256:1654cf70860a6d4d58236c98b0f1bb71521cc2a4bbf031b6cc39c96e77d59a91",
+                "sha256:82369250700af61af40bbf38efc8698560aaba8fa3e58eec7209c20aa05b9d02"
+            ],
+            "index": "pypi",
+            "version": "==1.0.0"
+        },
+        "vext": {
+            "hashes": [
+                "sha256:d188b0d214179cd6234b48c3ac708f9cb7793739d2a7bb7d1cb03f3bf59cf767"
+            ],
+            "index": "pypi",
+            "version": "==0.7.4"
+        },
+        "vext.gi": {
+            "hashes": [
+                "sha256:68a55688c6cddc913dd35efc688213247497856e85af290450fef4479dff3c81"
+            ],
+            "index": "pypi",
+            "version": "==0.7.4"
+        }
+    },
+    "develop": {}
+}

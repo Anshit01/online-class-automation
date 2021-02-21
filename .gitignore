@@ -1,2 +1,5 @@
 debug.log
 class-start
+
+__pycache__
+*.pyc
