@@ -46,7 +46,10 @@ def checkClass():
         print("No class right now.")
 
 # Loading timetable from class-data.json
-with open("class-data.json") as f:
+# Getting the absolute path of the file
+path = os.path.join(os.path.abspath(os.getcwd()), 'class-data.json')
+
+with open(path) as f:
     data = json.load(f)
     for class_ in data:
         subject = class_['subject']
