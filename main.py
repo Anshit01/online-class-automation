@@ -8,8 +8,10 @@ from pynotifier import Notification
 
 timeToClassDict = {}
 
+soundPath = os.path.join(os.path.dirname(__file__), 'data', 'sound.ogg')
+
 def playSound():
-    playsound('data/sound.ogg')
+    playsound(soundPath)
 
 def notify(subject, link):
     # if os.name == 'nt':
@@ -45,11 +47,11 @@ def checkClass():
     else:
         print("No class right now.")
 
-# Loading timetable from class-data.json
 # Getting the absolute path of the file
-path = os.path.join(os.path.abspath(os.getcwd()), 'class-data.json')
+dataPath = os.path.join(os.path.dirname(__file__), 'class-data.json')
 
-with open(path) as f:
+# Loading timetable from class-data.json
+with open(dataPath) as f:
     data = json.load(f)
     for class_ in data:
         subject = class_['subject']
