@@ -1,0 +1,138 @@
+[
+    {
+        "subject": "Maths",
+        "link": "https://meet.google.com/lookup/b55gznl6da?authuser=1&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 10
+            },
+            {
+                "day": 1,
+                "hour": 10
+            },
+            {
+                "day": 2,
+                "hour": 9
+            },
+            {
+            	"day": 4,
+            	"hour": 9
+            }
+        ]
+    },
+    {
+        "subject": "Heat Transfer",
+        "link": "https://meet.google.com/lookup/amq2yc3dhu?authuser=1&hs=179",
+        "timings": [
+            {
+                "day": 1,
+                "hour": 12
+            },
+            {
+                "day": 2,
+                "hour": 11
+            },
+            {
+                "day": 3,
+                "hour": 11
+            },
+            {
+                "day": 4,
+                "hour": 11
+            }
+        ]
+    },
+    {
+        "subject": "Thermodynamics",
+        "link": "https://meet.google.com/lookup/blbnh2r5xh?authuser=1&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 12
+            },
+            {
+                "day": 1,
+                "hour": 9
+            },
+            {
+                "day": 2,
+                "hour": 12
+            },
+            {
+                "day": 3,
+                "hour": 12
+            }
+        ]
+    },
+    {
+        "subject": "Industrial Pollution",
+        "link": "https://meet.google.com/lookup/aj77ixvru3?authuser=1&hs=179",
+        "timings": [
+            {
+                "day": 1,
+                "hour": 11
+            },
+            {
+                "day": 2,
+                "hour": 10
+            },
+            {
+                "day": 3,
+                "hour": 10
+            },
+            {
+                "day": 4,
+                "hour": 10
+            }
+        ]
+    },
+    {
+        "subject": "Chemical Technology",
+        "link": "https://meet.google.com/lookup/gd6mdpfqeq?authuser=1&hs=179",
+        "timings": [
+            {
+                "day": 0,
+                "hour": 11
+            },
+            {
+                "day": 1,
+                "hour": 14
+            },
+            {
+                "day": 2,
+                "hour": 15
+            }
+        ]
+    },
+    {
+        "subject": "Computation Lab",
+        "link": "https://meet.google.com/lookup/e7twpfdi2s?authuser=1&hs=179",
+        "timings": [
+            {
+                "day": 1,
+                "hour": 15
+            }
+        ]
+    },
+    {
+        "subject": "Heat Transfer Lab",
+        "link": "https://meet.google.com/lookup/cpooyb76pj?authuser=1&hs=179",
+        "timings": [
+            {
+                "day": 2,
+                "hour": 16
+            }
+        ]
+    },
+    {
+        "subject": "Chemical Technology Lab",
+        "link": "https://meet.google.com/lookup/e54nlc2pap?authuser=0&hs=179",
+        "timings": [
+            {
+                "day": 4,
+                "hour": 13
+            }
+        ]
+    }
+]
